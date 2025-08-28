@@ -46,7 +46,7 @@ future-ready solutions.
 ## 🛠️ Tech & Tools  
 
 **Languages & Data:** Python · SQL · Excel (Advanced) · Power BI  
-**Modeling & Simulation:** SysML · Altair Inspire · Tecnomatix Plant Simulation · RoboDK  
+**Modeling & Simulation:** SysML · Altair Inspire · RoboDK  
 **Robotics & Automation:** KUKA KRC · OPC-UA · SPS (Basic)  
 **CAD:** SolidWorks · AutoCAD · Catia (Basic)  
 **ERP & Systems:** SAP (Basic) · Jira  
